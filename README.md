@@ -1,35 +1,50 @@
 # ☕ Brew Bloom Cafe
 
-## About the Project
+## 📌 About the Project
 
-Brew Bloom Cafe is a cafe website developed as a Web Engineering assignment. It allows visitors to explore the cafe menu and interact with different website features. The project is built using HTML, CSS, and JavaScript.
+Brew Bloom Cafe is a responsive and interactive cafe website developed as a Web Engineering assignment. It allows visitors to explore the cafe, view its menu, and interact with different website features. The project is developed using HTML5, CSS3, and JavaScript.
 
-## Technologies Used
+## 🌐 Live Demo
 
-- HTML5
-- CSS3
-- JavaScript
+Visit the live website here:
 
-## How to Run the Project
+**[☕ View Brew Bloom Cafe](https://ammara220.github.io/Brew-Bloom-Cafe/)**
 
-**Live Website:** [View Brew Bloom Cafe](https://ammara220.github.io/Brew-Bloom-Cafe/)
+## 🛠️ Technologies Used
 
-To run locally:
+- **HTML5:** Used to create the structure of the website.
+- **CSS3:** Used for styling, layout, colors, and visual design.
+- **JavaScript:** Used to add interactive and dynamic functionality.
 
-1. Download or clone this repository.
+## 🚀 How to Run the Project
+
+You can view the live project directly here:
+
+[Open Brew Bloom Cafe](https://ammara220.github.io/Brew-Bloom-Cafe/)
+
+Alternatively, to run it locally:
+
+1. Clone or download this repository.
 2. Open the project folder.
-3. Double-click `index.html`.
-4. The website will open in your browser.
+3. Double-click the `index.html` file.
+4. The website will open in your default web browser.
 
-## Project Structure
+**Note:** For the best experience, use a modern browser such as Google Chrome or Mozilla Firefox.
 
-- `index.html` – Website structure.
-- `styles.css` – Website styling.
-- `script.js` – Website functionality.
-- `README.md` – Project documentation.
+## 📂 Project Structure
 
-## Author
+```text
+Brew-Bloom-Cafe/
+│
+├── index.html
+├── styles.css
+├── script.js
+└── README.md
+```
 
-Ammara Umer
+## 👩‍💻 Author
+
+**Ammara Umer**
 
 Web Engineering Assignment
+
