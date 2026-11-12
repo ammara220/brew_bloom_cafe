@@ -8,7 +8,7 @@ Brew Bloom Cafe is a responsive and interactive cafe website developed as a Web 
 
 Visit the live website here:
 
-**([https://ammara220.github.io/Brew-Bloom-Cafe/)**
+[☕ View Brew Bloom Cafe](https://ammara220.github.io/brew_bloom_cafe/)
 
 ## 🛠️ Technologies Used
 
